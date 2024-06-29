@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/GripFast-III/Kasa-2024/static/css/main.e5b1df39.css",
-    "main.js": "/GripFast-III/Kasa-2024/static/js/main.9f45f74d.js",
-    "static/js/453.52b45d4f.chunk.js": "/GripFast-III/Kasa-2024/static/js/453.52b45d4f.chunk.js",
-    "static/media/landscape-about.png": "/GripFast-III/Kasa-2024/static/media/landscape-about.dc7a08e1faa2e14de0bd.png",
-    "static/media/IMG.png": "/GripFast-III/Kasa-2024/static/media/IMG.1168be13650bb18b456e.png",
-    "static/media/right-chevron.png": "/GripFast-III/Kasa-2024/static/media/right-chevron.627fbe0372c25d5bbb26.png",
-    "static/media/left-chevron.png": "/GripFast-III/Kasa-2024/static/media/left-chevron.3acaacbf7f320bef605f.png",
-    "index.html": "/GripFast-III/Kasa-2024/index.html",
-    "main.e5b1df39.css.map": "/GripFast-III/Kasa-2024/static/css/main.e5b1df39.css.map",
-    "main.9f45f74d.js.map": "/GripFast-III/Kasa-2024/static/js/main.9f45f74d.js.map",
-    "453.52b45d4f.chunk.js.map": "/GripFast-III/Kasa-2024/static/js/453.52b45d4f.chunk.js.map"
+    "main.css": "/static/css/main.aa3f4f75.css",
+    "main.js": "/static/js/main.dbebfa5c.js",
+    "static/js/453.52b45d4f.chunk.js": "/static/js/453.52b45d4f.chunk.js",
+    "static/media/landscape-about.png": "/static/media/landscape-about.dc7a08e1faa2e14de0bd.png",
+    "static/media/IMG.png": "/static/media/IMG.1168be13650bb18b456e.png",
+    "static/media/right-chevron.png": "/static/media/right-chevron.627fbe0372c25d5bbb26.png",
+    "static/media/left-chevron.png": "/static/media/left-chevron.3acaacbf7f320bef605f.png",
+    "index.html": "/index.html",
+    "main.aa3f4f75.css.map": "/static/css/main.aa3f4f75.css.map",
+    "main.dbebfa5c.js.map": "/static/js/main.dbebfa5c.js.map",
+    "453.52b45d4f.chunk.js.map": "/static/js/453.52b45d4f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5b1df39.css",
-    "static/js/main.9f45f74d.js"
+    "static/css/main.aa3f4f75.css",
+    "static/js/main.dbebfa5c.js"
   ]
 }
