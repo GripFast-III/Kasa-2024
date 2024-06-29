@@ -1,0 +1,40 @@
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex: 9;
+  padding: 3%;
+}
+
+.up {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex: 9;
+    padding: 3%;
+  }
+
+  .imglogo {
+    display: flex;
+    flex: 7;
+    width: 50%;
+  }
+
+  .navigation {
+    flex: 2;
+    align-content: center;
+    width: 50%;
+  }
+
+  header nav {
+    display: flex;
+    justify-content: space-between;
+    a {
+        text-decoration: none;
+        color: black;
+    }
+  }
+  
+  .header__link.active {
+    text-decoration: underline;
+  }

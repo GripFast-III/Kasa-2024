@@ -1,0 +1,15 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    border-radius: 10px;
+    margin: 3%;
+    padding: 3%;
+    background: rgb(244, 244, 244);
+    a {
+      display: flex;
+      text-decoration: none;
+      flex: 0 1 calc(30% - 10px);
+      justify-content: center;
+      }
+}

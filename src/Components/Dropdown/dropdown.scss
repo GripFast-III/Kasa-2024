@@ -1,0 +1,80 @@
+.dropdownDescription {
+    flex: 5;
+    margin-right: 20px;
+  }
+.dropdownEquipements {
+    flex: 5;
+    margin-left: 20px;
+    }
+
+.dropdownDescription .collapse__visible,
+.dropdownEquipements .collapse__visible {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ff6060;
+  border-radius: 10px;
+  transform: translateY(-65px);
+  height: 10px;
+  color: white;
+  padding: 1rem;
+}
+
+.collapse__visible {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    background-color: #ff6060;
+    color: white;
+    padding: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+    transform: translateY(-65px);
+}
+
+.collapse__toggle {
+    overflow: hidden;
+    transition: height 0.5s ease;
+    background-color: #fafafa;
+    border-radius: 0px 0px 5px 5px;
+    transform: translateY(-65px);
+    p {
+        color: black;
+        margin: 2%;
+    }
+}
+
+.chevron {
+    float: right;
+    filter: invert(100%);
+    width: 32px;
+    height: 32px;
+    /* transform: rotate(180deg); */
+    transition: 0.5s;
+}
+  
+.chevron:hover {
+    cursor: pointer;
+}
+  
+.chevron.rotated {
+    transform: rotate(180deg);
+}
+
+@media screen and (max-width: 767px) {
+  .dropdownsLogement {
+    flex-direction: column;
+    flex: 0;
+    gap: 2rem;
+    padding-top: 90px;
+  }
+
+  .dropdownDescription {
+    margin-right: 0px;
+  }
+
+  .dropdownEquipements {
+    margin-left: 0px;
+  }
+}
